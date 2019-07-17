@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.formWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.inputsWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
